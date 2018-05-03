@@ -1,0 +1,26 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+#relative_permalinks: true
+
+# Setup
+title:               Lanyon
+tagline:             'A Jekyll theme'
+description:         'A blog about computational linguistics and various on other things. On Twitter <a href="https://twitter.com/winobes" target="_blank">@winobes</a>.'
+url:                 winobes.github.io
+baseurl:             ''
+paginate:            5
+
+# About/contact
+author:
+  name:              bill noble
+  url:               https://twitter.com/winobes
+  email:             winobes@gmail.com
+
+# Custom vars
+version:             1.0.0
+
+plugins: [jekyll-paginate]
+paginate: 5
+paginate_path: "page:num"
