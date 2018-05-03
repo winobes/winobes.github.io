@@ -1,15 +1,16 @@
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           pretty
+permalink: none
 #relative_permalinks: true
+future: true
 
 # Setup
 title:               'bill noble'
 tagline:             'linguistics and stuff'
 description:         'A blog about computational linguistics and various on other things. On Twitter <a href="https://twitter.com/winobes" target="_blank">@winobes</a>.'
 url:                 winobes.github.io
-baseurl:             'winobes.github.io'
+baseurl:             ''
 paginate:            5
 
 # About/contact
