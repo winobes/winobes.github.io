@@ -4,6 +4,7 @@
 permalink: none
 #relative_permalinks: true
 future: true
+exclude: ["workspace"]
 
 # Setup
 title:               'bill noble'
