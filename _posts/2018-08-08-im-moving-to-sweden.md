@@ -66,3 +66,8 @@ For example, we can find ways to make the social context necessairy for generous
 I don't want to make it sound like "oh if only we understood each other all our problems would go away". 
 There is clearly no shortage of non-linguistic social division in the world today. 
 But if we can better understand where semantic change comes from, and what accounts for the differences between communities, I think we can give people better tools for at least discussing those divisions across linguistic communities.
+
+## _How_ am I going to do it?
+
+I'm planning to take an interdisciplinary approach, grounding my research in cognitive and sociolinguistic theory, and applying tools from [computational linguistics](https://en.wikipedia.org/wiki/Computational_linguistics) and [social network analysis](https://en.wikipedia.org/wiki/Social_network_analysis).
+I think it will be a good practice to update this blog regularly as my studies and research progress, so if you're interested, stay tuned here or follow me on Twitter.
