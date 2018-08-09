@@ -10,8 +10,8 @@ title: I'm moving to Sweden!
 I'm moving to Gothenburg, Sweden at the end of the month to take a PhD position at the University of Gotherburg's Centre for Linguistic Theory and Studies in Probability ([CLASP](clasp.gu.se)).
 It's a big move, so I thought I'd take some time to write about what I'll be doing there before I leave.
 
-Basically, I'l be taking classes, doing research, and probably teachng (or TAing) some, too.
-By the end, I'll have written a disseration based on my research and (if all goes well) I'll get a degree.
+Basically, I'll be taking classes, doing research, and probably teaching (or TAing) some, too.
+By the end, I'll have written a dissertation based on my research and (if all goes well) I'll get a degree.
 All this will take four or five years.
 
 ## What am I researching?
@@ -22,24 +22,23 @@ This includes _lexical semantics_ (what do words mean?) and _compositional seman
 I think my work will mostly focus on lexical semantics.
 
 I'm particularly interested in looking at the social context of language change.
-Sociolinguists have a concept of a [_speech community_](https://en.wikipedia.org/wiki/Speech_community) -- a group of people who share a set of linguistic conventions such as the meaning of certain words.
+Sociolinguistics have a concept of a [_speech community_](https://en.wikipedia.org/wiki/Speech_community) -- a group of people who share a set of linguistic conventions such as the meaning of certain words.
 Speech communities come in all sizes from as large as _speakers of English_ to as small as _a pair of close friends_.  
 
-Speech communities can overlap or even "eavesdrop" on eachother, resulting in the spread of novel linguistic conventions.
+Speech communities can overlap or even "eavesdrop" on each other, resulting in the spread of novel linguistic conventions.
 Language changes in a larger community affects the language spoken in sub-communities
 Conversely, changes made to the language by a sub-community are sometimes adopted by the larger community.
 
-Linguistic varriation (differences between communities) and linguistic change (differences within a community over time) are two sides of the same coin.
+Linguistic variation (differences between communities) and linguistic change (differences within a community over time) are two sides of the same coin.
 Both are necessary for understanding questions like _where does semantic change come from?_ and _why are some changes adopted more broadly, while others aren't?_
 
 ## Why does it matter?
 
 So, I obviously think this is all really interesting. I also think it's really important.
 At the risk of going all _now more than ever_ on you, I think it's clear to anyone who's visited The Internet in the last 5 or 10 years that we're far from consistent when it comes to maintaining a productive discourse.
-And while I wouldn't try to deny that thare are significant---at times insurmountable---differences of opinion and values out there, I think it's often the case that we can't even get at those differences because we're totally talking past each other.
+And while I wouldn't try to deny that there are significant---at times insurmountable---differences of opinion and values out there, I think it's often the case that we can't even get at those differences because we're totally talking past each other.
 
-Vox's Ezra Klein had a nice example of the kind of thing I'm talking about in [his piece](https://www.vox.com/technology/2018/8/8/17661368/sarah-jeong-twitter-new-york-times-andrew-sullivan) about the recent Twitter controvercy surrounding some old tweets by journalist Sarah Jeong.
-
+Vox's Ezra Klein had a nice example of the kind of thing I'm talking about in [his piece](https://www.vox.com/technology/2018/8/8/17661368/sarah-jeong-twitter-new-york-times-andrew-sullivan) about the recent Twitter controversy surrounding some old tweets by journalist Sarah Jeong.
 
 > A few years ago, it became popular on feminist Twitter to tweet about the awful effects of patriarchal culture and attach the line #KillAllMen. This became popular enough that a bunch of people I know and hang out with and even love began using it in casual conversation.
 
@@ -58,16 +57,17 @@ Social context is especially key.
 We often don't get that social context on the internet. 
 It's foreign, or faded from memory, or (willfully or otherwise) stripped away.
 
-When a new lexical item like _#KillAllMen_ pops up, it's in response to communicative need---in this case, the need for a toung-in-cheek way to point out problems caused by the patriarchy.
+When a new lexical item like _#KillAllMen_ pops up, it's in response to communicative need---in this case, the need for a tong-in-cheek way to point out problems caused by the patriarchy.
 People who don't possess that need (e.g. men with no interest in pointing out the patriarchy) may not intuitively interpret it that way.
-With a better understanding of how semantic change spreads (particularly on the internet), I think we can make better informed choices about how to organize discussion and build communities in a way that makes diverse voices acessible to everyone.
-For example, we can find ways to make the social context necessairy for generous interpretation available, while exposing bad-faith provocateurs who feign outrage for what they are.
+With a better understanding of how semantic change spreads (particularly on the internet), I think we can make better informed choices about how to organize discussion and build communities in a way that makes diverse voices accessible to everyone.
+For example, we can find ways to make the social context necessary for generous interpretation available, while exposing bad-faith provocateurs who feign outrage for what they are.
 
 I don't want to make it sound like "oh if only we understood each other all our problems would go away". 
 There is clearly no shortage of non-linguistic social division in the world today. 
 But if we can better understand where semantic change comes from, and what accounts for the differences between communities, I think we can give people better tools for at least discussing those divisions across linguistic communities.
 
-## _How_ am I going to do it?
+## So what does this "research" actually consist of?
 
-I'm planning to take an interdisciplinary approach, grounding my research in cognitive and sociolinguistic theory, and applying tools from [computational linguistics](https://en.wikipedia.org/wiki/Computational_linguistics) and [social network analysis](https://en.wikipedia.org/wiki/Social_network_analysis).
+I'm planning to take an interdisciplinary approach, grounding my research in cognitive and sociolinguistics theory, and applying tools from [computational linguistics](https://en.wikipedia.org/wiki/Computational_linguistics) and [social network analysis](https://en.wikipedia.org/wiki/Social_network_analysis).
+A lot of my research will be large-scale corpus studies of social media data and other internet discourse.
 I think it will be a good practice to update this blog regularly as my studies and research progress, so if you're interested, stay tuned here or follow me on Twitter.
