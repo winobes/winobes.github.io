@@ -22,12 +22,12 @@ This includes _lexical semantics_ (what do words mean?) and _compositional seman
 I think my work will mostly focus on lexical semantics.
 
 I'm particularly interested in looking at the social context of language change.
-Sociolinguistics have a concept of a [_speech community_](https://en.wikipedia.org/wiki/Speech_community) -- a group of people who share a set of linguistic conventions such as the meaning of certain words.
-Speech communities come in all sizes from as large as _speakers of English_ to as small as _a pair of close friends_.  
+Sociolinguists have this concept of a [_speech community_](https://en.wikipedia.org/wiki/Speech_community) -- a group of people who share a set of linguistic conventions, such as the meaning of certain words.
+Speech communities come in all sizes, from as large as _speakers of English_ to as small as _a pair of close friends_.  
 
 Speech communities can overlap or even "eavesdrop" on each other, resulting in the spread of novel linguistic conventions.
-Language changes in a larger community affects the language spoken in sub-communities
-Conversely, changes made to the language by a sub-community are sometimes adopted by the larger community.
+Change in a larger community affect the language spoken in sub-communities.
+Conversely, changes made to the language in a sub-community are sometimes adopted by the larger community.
 
 Linguistic variation (differences between communities) and linguistic change (differences within a community over time) are two sides of the same coin.
 Both are necessary for understanding questions like _where does semantic change come from?_ and _why are some changes adopted more broadly, while others aren't?_
@@ -50,7 +50,7 @@ Vox's Ezra Klein had a nice example of the kind of thing I'm talking about in [h
 
 The internet lets people from across the world connect, find shared experiences, and build communities.
 It also enables interaction between people who have very little in common and may sometimes feel at opposition with each other.
-I think that access can be a great force for good---and is something worth preserving---but it can also cause serious discord.
+I think that access can be a great force for good---and is something worth preserving---but it can also conttribute to discord with serious real-world implications.
 
 When we're interpreting language, context is key. 
 Social context is especially key.
@@ -60,14 +60,14 @@ It's foreign, or faded from memory, or (willfully or otherwise) stripped away.
 When a new lexical item like _#KillAllMen_ pops up, it's in response to communicative need---in this case, the need for a tong-in-cheek way to point out problems caused by the patriarchy.
 People who don't possess that need (e.g. men with no interest in pointing out the patriarchy) may not intuitively interpret it that way.
 With a better understanding of how semantic change spreads (particularly on the internet), I think we can make better informed choices about how to organize discussion and build communities in a way that makes diverse voices accessible to everyone.
-For example, we can find ways to make the social context necessary for generous interpretation available, while exposing bad-faith provocateurs who feign outrage for what they are.
+For example, we can find ways to make the social context necessary for generous interpretation available, while exposing bad-faith provocateurs who feign outrage (i.e. trolls) for what they are.
 
 I don't want to make it sound like "oh if only we understood each other all our problems would go away". 
 There is clearly no shortage of non-linguistic social division in the world today. 
-But if we can better understand where semantic change comes from, and what accounts for the differences between communities, I think we can give people better tools for at least discussing those divisions across linguistic communities.
+But if we can better understand where semantic change comes from, and what accounts for the differences between communities, I think we can give people better tools for contextualizing each other's speech and at least start discussing those divisions across linguistic communities.
 
 ## So what does this "research" actually consist of?
 
 I'm planning to take an interdisciplinary approach, grounding my research in cognitive and sociolinguistics theory, and applying tools from [computational linguistics](https://en.wikipedia.org/wiki/Computational_linguistics) and [social network analysis](https://en.wikipedia.org/wiki/Social_network_analysis).
-A lot of my research will be large-scale corpus studies of social media data and other internet discourse.
+A lot of my research will using computer models to find and probe phenomena such as semantic change in large-scale corpuses of social media and other internet discourse.
 I think it will be a good practice to update this blog regularly as my studies and research progress, so if you're interested, stay tuned here or follow me on Twitter.
