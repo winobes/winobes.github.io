@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Five sources of semantic variability
+title: Five kinds of semantic variation
 ---
 
 <div class="message">
@@ -12,9 +12,11 @@ why's that?
 
 This is the first blog post I'm making as an official PhD student!
 
-I'm researching _semantic change_---how the meaning of words shifts over time.
+I don't know exactly what I'm doing yet, but I know my research is going to have something
+to do with _semantic change_---how the meaning of words shifts over time.
 Semantic change is part of a broader category of phenomena I'll call _semantic variation_.
 Whenever the same word is used to mean two different things, that's an example of semantic variation.
+Naturally, _change_ is just variation over time.
 
 <!--I'll mostly skip over the question of what even it _means_ for a word to mean something.-->
 <!--How meaning is represented, and how those representations are connected to the words themselves is probably effects-->
@@ -25,7 +27,8 @@ Whenever the same word is used to mean two different things, that's an example o
 <!--But I'll just note that there are some complications there, too.-->
 
 The thing I like about semantic variation as a concept is that it unifies a bunch of intuitively distinct linguistic phenomena. 
-To dig a little deeper I'll give five examples of semantic variation and talk a little about the framework that lets you think of them
+To dig a little deeper I'll give five examples of semantic variation and talk a little about 
+_common ground_, the framework I'm using that lets you think of them
 as instances of the same phenomenon.
 
 ## One - Polysemy & homophony 
@@ -70,7 +73,42 @@ Barbara Johnstone's has an example in _The Linguistic Individual_ that I think f
 > like "We do carry folding directors' chairs , and they're $175 each" or
 > "We'll be able to collect your bulky trash in two weeks or so."
 
-- how to explain with common ground?
+Later (in chapter 6), Johnstone talks about how this _Aahhh_ is interpreted.
+For her, since she's heard her father use it many times, she knows what it means.
+But for someone hearding it the first time, since it's not a conventional expression,
+a naive view of common ground (i.e., there isn't any) might lead you to think it's not
+understood. Not so. For one thing, Johnstone describes how _Aaahh_ always comes
+with a translation when her father uses it---a "synchronic repetition, in a more
+conventional form".
+So, while there may be no common ground about _Aaahh_ itself, listeners understand
+what he means by it because there _is_ common ground around the meaning of other
+expressions that accompany it.
+Perhaps there's also something about the prosity of the expression
+that's interpretable on an intuitive level, even without explicit understanding.
+
+Likewise, when my dad gives directions about the location of an "orange" object, even an uninitiated
+person is likely to find it, as long as
+there's not some red herring (if you'll excuse the expression) that causes confusion.
+Through repeated exposure, they'll come to understand that it's part of his individual
+style that _orange_ (when he uses it) can refer to pretty much any bright, warm color.
+
+The thing these examples have in common (other than both being about dads... I wonder
+what Dr. Freud would say about the proclivity for linguists using their fathers as examples?) is that 
+the hearer understands the expression's intended meaning (or at least has resources to interpret
+it correctly) even though it's not it's not being used in a way that's conventional to their
+shared speech community.
+Indeed, even once the hearer recognises the idiosyncratic usage, it remains an example
+of semantic style---they don't necessairily adopt it as their own or expect other 
+speakers to use the expression in the same way.
+
+On the other hand, for a varitey of conscious or unconscious reasons, they _might_
+adopt it as their own, as was the case with Johnstone's sister adoping _Aaahh_.
+This is where I point out that all these sources of variation are related.
+What was once individual style may become a marker of a particular speech community.
+For the speech community, adopting the semantic style of one of their members would
+be an example of _semanic change_.
+
+The final two sources of semantic varriation are both kinds of change.
 
 ## Four - Historic change
 
@@ -81,6 +119,8 @@ social and communicative pressures contribute to the evolution of word meaning.
 I think that variation of other kinds itself has a big influence on historic change.
 For example, it's pretty common far a new interpretation of a word start in a specific language community
 and gain more widespread usage over time.
+
+- hamilton
 
 ## Five - Semantic adaptation
 
