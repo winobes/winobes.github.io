@@ -13,33 +13,62 @@ why's that?
 This is the first blog post I'm making as an official PhD student!
 
 I don't know exactly what I'm doing yet, but I know my research is going to have something
-to do with _semantic change_---how the meaning of words shifts over time.
+to do with _semantic change_---how word meanings shift over time.
 Semantic change is part of a broader category of phenomena I'll call _semantic variation_.
 Whenever the same word is used to mean two different things, that's an example of semantic variation.
 Naturally, _change_ is just variation over time.
 
-<!--I'll mostly skip over the question of what even it _means_ for a word to mean something.-->
-<!--How meaning is represented, and how those representations are connected to the words themselves is probably effects-->
-<!--how words change in meaning, but that's something for another day.-->
+Here are five kinds of semantic variation (I hesitate to say **the** five kinds of semantic variation),
+and a little about the framework---_common ground_---that brings them together.
 
-<!--Also, when I say _word_, what I really mean is [lexical item](https://en.wikipedia.org/wiki/Lexical_item), which -->
-<!--includes multiword expressions like "of course".-->
-<!--But I'll just note that there are some complications there, too.-->
+## One - Polysemy & Homonymy 
 
-The thing I like about semantic variation as a concept is that it unifies a bunch of intuitively distinct linguistic phenomena. 
-To dig a little deeper I'll give five examples of semantic variation and talk a little about 
-_common ground_, the framework I'm using that lets you think of them
-as instances of the same phenomenon.
+This is probably the first thing that comes to mind when it comes to the same word meaning two different things.
+Take the word _bank_. It has several possible meanings.
+If I say to you "let's have lunch down by the _bank_", I could be referring to a riverbank, or I could be talking about
+a building where you keep money.
+Usually it's possible to tell which based on context (such as where we usually eat lunch).
 
-## One - Polysemy & homophony 
-
-- what is
+People have different ideas about the difference between polysemy and homonymy, but usually homonymy carries
+the connotation that the two senses are "acidentally" connected to the same word.
+I think it's useful to define homonymy in terms of vagueness.
+The bank/riverbank example is homonymy because it's not possible to be vague about which of the two meanings I intended. 
+Either I was suggesting we eat lunch by the riverbank or by the bank-bank, it can't be _kind of both_.
+On the other hand if I say "oh I hate that bank", I might mean _bank_ in the sense of the bank as a corporate entity, or I might be talking about
+the physical building, or I might be talking about something that encompasses both.
 
 ## Two - Different speech communities
 
-- what is
-- common ground 
-- languages vs. dialects vs. speech community
+Here's where I say something about _common ground_, an idea developed by the psycholinguist Herbert H. Clark 
+and others in the '90s[^1].
+Common ground is a body of knowledge shared among some group of poeple.
+It's related to the concept of [common knowledge](https://plato.stanford.edu/entries/common-knowledge/),
+where everyone knows a thing, but also everyone _knows_ that everyone knows it and everyone _knows_ that 
+everyone knows it (and so on).
+
+Common ground needs to be _based_ on something. 
+For example, if we watch a tennis match together, certain facts, such as who won the match,
+are _grounded_ (i.e. part of the common ground) between us.
+The event of watching the match serves as a _basis_ for this common ground.
+This is what's called a _perceptual basis_---it's something that we both percieved and percieved each other perceiving.
+
+There's another kind of basis called a _communal basis_. 
+A communial basis grounds knowledge based on belonging to a the same community.
+For example, a nurse may assume that a doctor knows difference between a humerus and a femur
+_based_ on the fact that they both belong to the same community of medical professionals.
+
+Communial bases are what we rely on to ground linguistic knowledge, such as, (surprise!) the meanings of words.
+In this framework, _speech communities_ come first (conceptually, at least) and _languages_ are just the
+linguistic common ground of the speech community.
+For example, English is the linguistic common ground between the community of English speakers.
+This might seem a little circular, but I promise it's not any more circular than doing it the other way around.
+
+The nice thing about this is that we can also explain differences in meaning that exist _within_ a language 
+(as we classically understand it).
+
+[example of speech community word]
+
+[^1]: e.g., Clark, Herbert H. _Using Language_. Cambridge University Press, 1996.
 
 ## Three - Stylistic diversity
 
