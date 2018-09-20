@@ -18,24 +18,27 @@ Semantic change is part of a broader category of phenomena I'll call _semantic v
 Whenever the same word is used to mean two different things, that's an example of semantic variation.
 Naturally, _change_ is just variation over time.
 
-Here are five kinds of semantic variation (I hesitate to say **the** five kinds of semantic variation),
-and a little about the framework---_common ground_---that brings them together.
+Here are five kinds of semantic variation (I hesitate to say **the** five kinds of semantic variation but... maybe?),
+and a little about the framework---*common ground*---that brings them together.
 
 ## One - Polysemy & Homonymy 
 
-This is probably the first thing that comes to mind when it comes to the same word meaning two different things.
-Take the word _bank_. It has several possible meanings.
+This is probably the first thing that comes to mind when we talk about the same word meaning two different things.
+Take the word _bank_, for example. It has several possible meanings.
 If I say to you "let's have lunch down by the _bank_", I could be referring to a riverbank, or I could be talking about
-a building where you keep money.
-Usually it's possible to tell which based on context (such as where we usually eat lunch).
+somewhere you keep money.
+Usually it's possible to tell which sense is meant based on context.
 
-People have different ideas about the difference between polysemy and homonymy, but usually homonymy carries
-the connotation that the two senses are "acidentally" connected to the same word.
-I think it's useful to define homonymy in terms of vagueness.
-The bank/riverbank example is homonymy because it's not possible to be vague about which of the two meanings I intended. 
+So what's the difference between *polysemy* and *homonymy*?
+Both refer to the same word having two different senses, but usually *homonymy* carries the connotation that
+the two senses are "acidentally".
+I think it can be useful to mark the difference in terms of vagueness.
+So, bank/riverbank is an example of homonymy because it's not possible to be vague about which of the two meanings I intended. 
 Either I was suggesting we eat lunch by the riverbank or by the bank-bank, it can't be _kind of both_.
 On the other hand if I say "oh I hate that bank", I might mean _bank_ in the sense of the bank as a corporate entity, or I might be talking about
 the physical building, or I might be talking about something that encompasses both.
+So bank (a building) and bank (a financial institution) are an example of polysemy, but not homonymy, 
+since the senses are related enough that it's possible to be vague about them in this way.
 
 ## Two - Different speech communities
 
@@ -47,46 +50,43 @@ where everyone knows a thing, but also everyone _knows_ that everyone knows it a
 everyone knows it (and so on).
 
 Common ground needs to be _based_ on something. 
-For example, if we watch a tennis match together, certain facts, such as who won the match,
+There needs to be some reason to belive everyone is on the same page.
+For example, if you and I were to watch a tennis match together, certain facts such as who won the match
 are _grounded_ (i.e. part of the common ground) between us.
-The event of watching the match serves as a _basis_ for this common ground.
-This is what's called a _perceptual basis_---it's something that we both percieved and percieved each other perceiving.
+The event of watching the match serves as a _basis_ for this common ground. 
+This is what's called a _perceptual basis_ since it's part of the event that we were both there 
+and saw eachother there.
 
 There's another kind of basis called a _communal basis_. 
 A communial basis grounds knowledge based on belonging to a the same community.
 For example, a nurse may assume that a doctor knows difference between a humerus and a femur
-_based_ on the fact that they both belong to the same community of medical professionals.
+_based_ on their joint membership in a community of medical professionals.
 
 Communial bases are what we rely on to ground linguistic knowledge, such as, (surprise!) the meanings of words.
-In this framework, _speech communities_ come first (conceptually, at least) and _languages_ are just the
+In this framework, languages, dialects, the jargon shared by communites of practice, the unique set of
+inside jokes that you refer to when speaking with your immediate family or a close circle of friends---all these things
+are the same _kind_ of thing as far as common ground is concerned.
+
+So, speech _communities_ come first (conceptually, at least) and _languages_ are just the
 linguistic common ground of the speech community.
-For example, English is the linguistic common ground between the community of English speakers.
-This might seem a little circular, but I promise it's not any more circular than doing it the other way around.
+There are definitely things left unexplained by this framing,
+and I'm interested in exploring some of them.
 
-The nice thing about this is that we can also explain differences in meaning that exist _within_ a language 
-(as we classically understand it).
-
-[example of speech community word]
+For one thing, no speech community is homogenious. 
+If a speech community is a group of people sharing a linguistic common ground,  what accounts for the diversity of language 
+use we see _within_ communities?
+That comes next.
 
 [^1]: e.g., Clark, Herbert H. _Using Language_. Cambridge University Press, 1996.
 
 ## Three - Stylistic diversity
 
-People also have their own unique linguistic style.
 Usually when we think of lingustic style it has to do with word choice,
 or maybe something about how people tend to construct sentences syntactically---the
 sorts of things that contribute to tone and register.
 But I think that poeple also use words to mean different things on an individual basis.
 
-I'm not sure this example is going to be teribly convincing, but I'll give it a try.
-My Dad routinely uses the word _orange_ to refer to objects with hues ranging anywhere from highlighter yellow to hot pink.
-I don't know why, exactly. Maybe it has something to do with his chromatic perception.
-But you press him on it he'll agknowledge that he realizes it isn't exactly orange.
-What matters here, though, is that he's not using the word _orange_ because of some convention in an established
-speech community or anything like that, that's just how _he_ uses the word.
-And because it's _close enough_ to what people conventionally think of as orange, it usually (with some notable exceptions) works out.
-
-Barbara Johnstone's has an example in _The Linguistic Individual_ that I think fits too
+Barbara Johnstone's has an example in _The Linguistic Individual_ that I think fits.[^2]
 
 > I once stayed with my sister during a week when, just having moved to
 > a new twon, she made onumber of phone calls inquiring about goods 
@@ -102,7 +102,7 @@ Barbara Johnstone's has an example in _The Linguistic Individual_ that I think f
 > like "We do carry folding directors' chairs , and they're $175 each" or
 > "We'll be able to collect your bulky trash in two weeks or so."
 
-Later (in chapter 6), Johnstone talks about how this _Aahhh_ is interpreted.
+Later[^3], Johnstone talks about how this _Aahhh_ is interpreted.
 For her, since she's heard her father use it many times, she knows what it means.
 But for someone hearding it the first time, since it's not a conventional expression,
 a naive view of common ground (i.e., there isn't any) might lead you to think it's not
@@ -115,41 +115,34 @@ expressions that accompany it.
 Perhaps there's also something about the prosity of the expression
 that's interpretable on an intuitive level, even without explicit understanding.
 
-Likewise, when my dad gives directions about the location of an "orange" object, even an uninitiated
-person is likely to find it, as long as
-there's not some red herring (if you'll excuse the expression) that causes confusion.
-Through repeated exposure, they'll come to understand that it's part of his individual
-style that _orange_ (when he uses it) can refer to pretty much any bright, warm color.
-
-The thing these examples have in common (other than both being about dads... I wonder
-what Dr. Freud would say about the proclivity for linguists using their fathers as examples?) is that 
-the hearer understands the expression's intended meaning (or at least has resources to interpret
+So, the hearer understands the expression's intended meaning (or at least has resources to interpret
 it correctly) even though it's not it's not being used in a way that's conventional to their
 shared speech community.
 Indeed, even once the hearer recognises the idiosyncratic usage, it remains an example
 of semantic style---they don't necessairily adopt it as their own or expect other 
-speakers to use the expression in the same way.
+speakers to use the expressIon in the same way.
 
-On the other hand, for a varitey of conscious or unconscious reasons, they _might_
-adopt it as their own, as was the case with Johnstone's sister adoping _Aaahh_.
-This is where I point out that all these sources of variation are related.
-What was once individual style may become a marker of a particular speech community.
-For the speech community, adopting the semantic style of one of their members would
-be an example of _semanic change_.
-
-The final two sources of semantic varriation are both kinds of change.
+[^2]: Johnstone, Barbara. _The Linguistic Individual: Self-Expression in Language and Linguistics._ Oxford Studies in Sociolinguistics. Oxford, New York: Oxford University Press, 1996, Chapter 1.
+[^3]: Chapter 6.
 
 ## Four - Historic change
 
-The meaning of words change over time,
+New words are coined, and the meaning of existing words change over time,
 even within the same speech community.
 There's a lot to say about how and why this happens---we know that various
 social and communicative pressures contribute to the evolution of word meaning.
-I think that variation of other kinds itself has a big influence on historic change.
-For example, it's pretty common far a new interpretation of a word start in a specific language community
-and gain more widespread usage over time.
 
-- hamilton
+I'm interested in how other kinds of semanic variation influence historic change.
+For example, it's pretty common far a new interpretation of a word start in a smaller speech community
+and gain more widespread usage over time.
+Likewise, facets of an individual's lingustic style may be picked up by others 
+(like how Johnstone's sister uses her dad's _Aaahh_)
+and in that way contribute to historic change within a community.
+
+Common ground can be useful for thinking about historic semantic change, too.
+For example, semantic change is often made possible by non-lingustic common ground.
+
+
 
 ## Five - Semantic adaptation
 
