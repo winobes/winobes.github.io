@@ -66,7 +66,7 @@ Anyway, here's my list of (the?) four kinds of semantic variation:
 1. **Diversity** -- differences between speech communities
 2. **Style** -- differences between individuals
 3. **Change** -- changes in speech communities
-4. **Adaptation** -- changes made during a dialogues
+4. **Adaptation** -- changes made during a dialogue
 
 ### One - Semantic Diversity 
 
