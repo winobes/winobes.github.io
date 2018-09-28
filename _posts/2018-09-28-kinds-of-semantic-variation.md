@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Five kinds of semantic variation
+title: Four kinds of semantic variation
 ---
 
 <div class="message">
