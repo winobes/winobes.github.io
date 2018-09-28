@@ -33,11 +33,11 @@ I could be referring to a `riverbank`,
 or I could be talking about a `bank-bank`---somewhere you keep money.
 
 <!--So what's the difference between *polysemy* and *homonymy*?-->
-<!--Both _polysemy_ and _homonomy_ refer a word having multiple senses, -->
+<!--Both _polysemy_ and _homonymy_ refer a word having multiple senses, -->
 <!--but usually homonymy carries the connotation that -->
-<!--the two senses are somehow "acidentally" connected.-->
+<!--the two senses are somehow "accidentally" connected.-->
 
-<!--So while bank/riverbank is an example of homonomy, -->
+<!--So while bank/riverbank is an example of homonymy, -->
 <!--perhaps bank (a physical building) vs. bank (a financial institution)-->
 <!--is an example of polysemy.-->
 
@@ -50,7 +50,7 @@ or I could be talking about a `bank-bank`---somewhere you keep money.
 
 But I'm interested in variation in the semantics of a word _as a whole_.
 The distinction I'm making here is related to Herman Paul's 
-_occsional meaning_ vs. _usual meaning_,[^1]
+_occasional meaning_ vs. _usual meaning_,[^1]
 or perhaps more closely related to the more recent notion of 
 _situated meaning_ vs. _meaning potential_.[^2]
 Polysemy represents variation in situated meaning,
@@ -73,7 +73,7 @@ Anyway, here's my list of (the?) four kinds of semantic variation:
 Here's where I say something about _common ground_, 
 an idea developed by the psycholinguist Herbert H. Clark 
 and others in the '90s[^3].
-Common ground is a body of knowledge shared among some group of poeple.
+Common ground is a body of knowledge shared among some group of people.
 It's related to the concept of 
 [common knowledge](https://plato.stanford.edu/entries/common-knowledge/),
 where everyone knows a thing, 
@@ -82,7 +82,7 @@ and everyone _knows_ that everyone knows it
 (and so on).
 
 Common ground needs to be _based_ on something---there 
-needs to be a reason for everyone to belive we're all on the same page.
+needs to be a reason for everyone to believe we're all on the same page.
 For example, 
 if you and I were to watch a tennis match together, 
 certain facts, 
@@ -101,12 +101,12 @@ between a humerus and a femur
 _based_ on their joint membership 
 in a community of medical professionals.
 
-Communial bases are what we rely on 
+Communal bases are what we rely on 
 to ground linguistic knowledge, 
 such as (surprise!) the meaning of words.
 In this framework, 
 languages, dialects, 
-the jargon shared by communites of practice, 
+the jargon shared by communities of practice, 
 the unique set of inside jokes shared with your immediate family 
 or a close circle of friends---all 
 these things are the same _kind_ of thing 
@@ -126,26 +126,26 @@ of the meaning of any given word.
 
 ### Two - Semantic Style 
 
-Usually when people talk about lingustic style 
+Usually when people talk about linguistic style 
 it has to do with word choice,
 or how an individual tends to construct sentences syntactically---the
 sorts of things that contribute to tone and register.
-But I think there's good reason to belive 
+But I think there's good reason to believe 
 that style is also involved in the meaning of words. 
 
 Here's an example from Barbara Johnstone's _The Linguistic Individual_:[^4]
 
 > I once stayed with my sister during a week when, just having moved to
 > a new town, she made a number of phone calls inquiring about goods 
-> and services. During one of these conversationts, I heard her begin a 
+> and services. During one of these conversations, I heard her begin a 
 > response with "Aaahh," a drawn-out /a/ made lower and further back in
 > her mouth than the /a/ she used in words such as _father_ or _hot_ and
 > uttered at a low and very slowly falling pitch. I at once thought of our
 > father, who makes exactly the same noise in the same conversational
 > slot in phone conversations of the same sort. _Aaahh_ is a small but 
-> unmistakable feautre of his individual way of sounding. It means "I think
+> unmistakable feature of his individual way of sounding. It means "I think
 > I understand what you've said, and, if I've understood you correctly,
-> I'm dissapointed. _Aaahh_ is the beginning of a rejoinder to a statement
+> I'm disappointed. _Aaahh_ is the beginning of a rejoinder to a statement
 > like "We do carry folding directors' chairs , and they're $175 each" or
 > "We'll be able to collect your bulky trash in two weeks or so."
 
@@ -190,13 +190,13 @@ In a [previous post]({% post_url 2018-03-18-word-embeddings-semantic-shift %})
 I described some recent work that measures how words changing over time.
 
 I'm particularly interested 
-in how other kinds of semanic variation 
+in how other kinds of semantic variation 
 influence historic change.
 For example, 
 it's common far a new interpretation of a word 
 to start in a smaller speech community
 and gain more widespread usage over time.
-Likewise, facets of an individual's lingustic style 
+Likewise, facets of an individual's linguistic style 
 may be picked up by others 
 (like how Johnstone's sister uses her dad's _Aaahh_)
 and in that way contribute to historic change 
@@ -217,9 +217,9 @@ Semantic adaptation is change that occurs over the course of a dialogue.
 
 Every dialogue starts off with some shared semantic understanding---both 
 people speak the same language, say.
-But the meanings avialable in their communial common ground 
+But the meanings available in their communal common ground 
 may be rather imprecise.
-Or it perhaps there's no bulit-in way of 
+Or it perhaps there's no built-in way of 
 referring to some concept that's important 
 in the current discussion.
 As they converse, 
@@ -229,7 +229,7 @@ in service of the present dialogue.
 Here's an example from a psychology-style experiment[^6] 
 where participants were asked
 to participate in a collaborative challenge 
-where they had to refer to some picutres of objects.
+where they had to refer to some pictures of objects.
 
 [^6]: Brennan, Susan E, and Herbert H Clark. “Conceptual Pacts and Lexical Choice in Conversation,” n.d., 12.
 
@@ -243,7 +243,7 @@ both A and B referred this card as _the pennyloafer_.
 A pennyloafer is (I think) a different shoe from a docksider. 
 Perhaps A even knows this,
 but because of the collaborative nature of communication, 
-the two agree on a new semantics for _pennyloafer_ wich,
+the two agree on a new semantics for _pennyloafer_ which,
 for the purposes of this dialogue,
 refers to the photo in question.
 
