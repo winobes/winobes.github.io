@@ -211,7 +211,7 @@ without having to use the dialogue itself
 to create it.
 This brings us to the final kind of semantic variation.
 
-### Five - Semantic adaptation
+### Four - Semantic adaptation
 
 Semantic adaptation is change that occurs over the course of a dialogue.
 
