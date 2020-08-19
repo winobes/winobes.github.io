@@ -41,3 +41,8 @@ validation-report.json
 node_modules
 bower_components
 workspace
+
+# Jekyll
+.jekyll-cache/
+Gemfile
+Gemfile.lock
