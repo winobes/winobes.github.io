@@ -8,8 +8,8 @@ exclude: ["workspace"]
 
 # Setup
 title:               'bill noble'
-tagline:             'linguistics and stuff'
-description:         'A blog about computational linguistics and various on other things. On Twitter <a href="https://twitter.com/winobes" target="_blank">@winobes</a>.'
+tagline:             'meaning in flux'
+description:         'My research website and (infrequent) blog about dialogue and semantic change. On Twitter <a href="https://twitter.com/winobes" target="_blank">@winobes</a>.'
 url:                 winobes.github.io
 baseurl:             ''
 paginate:            5
