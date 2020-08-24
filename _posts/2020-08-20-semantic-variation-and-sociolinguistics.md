@@ -20,17 +20,17 @@ Making this extension is not easy for reasons I'll explore below, and it seems t
 This post is mainly a summary of the second chapter of her book _Semantic Variation: Meaning in Society and in Sociolinguistics_, which sets out her vision for including semantics in the kinds of variation sociolinguists look at.
 
 Dr. Hasan retired as emeritus professor from the Macquaire University in Sydney in 1994; she had had a full career by the time this collected works volume was published in 2009.
-In the first two chapters, which serve as an introduction to the volume, she writes with some degree of frustration at certain inflexibilites and dogmas in mainstream sociolinguistics. You can tell that there are certain things she would have liked to see change over he career and, seeing that they haven't, these two chapters feel like something of a guide for future travelers.
+In the first two chapters, which serve as an introduction to the volume, she writes with some degree of frustration at certain inflexibilites and dogmas in mainstream sociolinguistics. You can tell that there are certain things she would have liked to see change over her career and, seeing that they haven't, these two chapters feel like something of a guide for future travelers.
 
-The first chapter, _Wanted: a theory for integrated sociolinguistics_, argues more broadly for **Systematic Functional Linguistics** (SFL) as a more appropriate linguistic theory from which to conduct sociolinguistic research. Chapter 2, _On Semantic Variation_, talks specifically about how SFL makes semantic variation possible as an object of sociolinguistic inquiry.
+The first chapter, _Wanted: a theory for integrated sociolinguistics_, argues broadly for **Systematic Functional Linguistics** (SFL) as a more appropriate linguistic theory from which to conduct sociolinguistic research. Chapter 2, _On Semantic Variation_, talks specifically about how SFL makes semantic variation possible as an object of sociolinguistic inquiry.
 
 ## The problem with semantic variation
 
-It is not always very explicit what sociolinguists mean by variation. Some have insisted that it remain unanalyzed, used in a pretheoretical way. This usually comes with some version of the advice that sociolinguistic variants are _different ways of saying the same thing_.
+It is not always very explicit what sociolinguists mean by variation. Some have insisted that it remain analyzed, used in a pretheoretical way. This usually comes with some version of the advice that sociolinguistic variants are _different ways of saying the same thing_.
 Hasan finds this problematic. It raises a lot of immediate questions: What is the _thing_ that is the same? What constitutes different _ways of saying_?
 In particular, this intuitive definition leaves unanswered the question of whether _semantic_ variation is even possible. 
 
-Antilla (2002) makes explicit what seems to be the most common assumed answers to these questions. Variation is a form-meaning relation of the kind found on the left, where two different forms correspond to a single meaning. When a single form corresponds to two different meanings, that's not variation, it'
+Antilla (2002) makes explicit what seems to be the most common assumed answers to these questions. **Variation** is a form-meaning relation of the kind found on the left, where two different forms correspond to a single meaning. When a single form corresponds to two different meanings, that's not variation, it's **ambiguity**.
 
 ![Figure 1: From Antilla (2002: 2010): 'Variation and phonological theory](/images/2020-08-20-antilla2002.jpg)
 
@@ -47,9 +47,9 @@ Now the problem with semantic variation becomes clear when you consider the clas
 4. Syntax
 5. Semantics
 
-Since semantics is at the top, it's can't ever play the role of form. There is no X such that two different (semantic) meanings can realize the same X.
+Since semantics is at the top, it can't ever play the role of form. There is no X such that two different (semantic) meanings can realize the same X.
 
-To be fair, this isn't really quite true. If you consider the _function_ of an utterance, it's certainly possible to use an utterance with two different *semantic* meanings that have the same functional goal. Perhaps this is because we left off the top level of linguistic analysis: **pragmatics**. 
+Small caveat: this isn't really quite true. If you consider the _function_ of an utterance, it's certainly possible to use an utterance with two different *semantic* meanings that have the same functional goal. Perhaps this is because we left off the top level of linguistic analysis: **pragmatics**. 
 
 1. _Can you open the window?_
 2. _Open the window._
@@ -70,25 +70,25 @@ In Systemic Functional Linguistics (at any rate in one version of Michael Hallid
 
 These correspond broadly to three so-called **metafunctions** of language: _ideational_, _interpersonal_, and _textual_. 
 
-The language-level metafunctions are realized by utterance-level _linguistic choices_ which **function** to acchive goals in the realm of each of the three aspects of social context. Consider these examples from Hasan's study of semantic variation in child-directed speech: 
+The language-level metafunctions are realized by utterance-level _linguistic choices_ which **function** to achieve goals in the realm of each of the three aspects of social context. Consider these examples from Hasan's study of semantic variation in child-directed speech: 
 
 1. _Let's wash your hands before you touch that sandwich._
 2. _You must wash your hands before you touch that sandwich._
 3. _Let's not play with those marbles when Andrew is crawling about._
 
-In these examples, (1) and (2) have the same _ideational function__---namely, they seek to get the child to wash their hands. But their _interpersonal function__ is different because they vary in tenor. Likewise, (1) and (3) have the same _interpersonal function_ but differ in _ideational function_.
+In these examples, (1) and (2) have the same _ideational function_---they seek to get the child to wash their hands. But their _interpersonal function_ is different because they vary in tenor. Likewise, (1) and (3) have the same _interpersonal function_ but differ in _ideational function_.
 
 ## Are other solutions possible?
 
 I think Hasan is right that a linguistic theory with the traditional analytic strata is a poor choice for sociolinguistic analysis of semantic variation, especially when coupled with a strictly truth-conditional semantics.
 But I'm not sure that I'm convinced that SFL is the be-all and end-all solution. And, to be fair, Hasan herself admits that there are probably other solutions. 
 
-I am skeptical Antilla's theorizing of the prethoretical _different ways of saying the same thing_.
-If one word, `F1` can mean two different things, say `M1` and `M2` sure, that could be ambiguity (as in the case of "bank" meaning _river bank_ and _financial institution_). 
-But it could _also_ be variation. If when I say "awesome" I mean _cool, fun, good_ and my great aunt means _inspiring of awe_, that seems to me like it should be considered variation. If when I'm at work and I say "transformer" and I mean some kind of [neural network thingy](https://en.wikipedia.org/wiki/Transformer_(machine_learning_model)) and when I'm at home talking to my little nephew I mean a [science fiction mecha](https://en.wikipedia.org/wiki/Transformers), that seems like variation.
+I am also skeptical of Antilla's theorizing of the prethoretical _different ways of saying the same thing_.
+If one word, `F1` can mean two different things, say `M1` and `M2` sure, that **could** be ambiguity (as in the case of "bank" meaning _river bank_ and _financial institution_). 
+But it could **also** be variation. If when I say "awesome" I mean _cool, fun, good_ and my great aunt means _inspiring of awe_, that seems to me like it should be considered variation. If when I'm at work and I say "transformer" and I mean some kind of [neural network thingy](https://en.wikipedia.org/wiki/Transformer_(machine_learning_model)) and when I'm at home talking to my little nephew I mean a [science fiction mecha](https://en.wikipedia.org/wiki/Transformers), that seems like variation, not (or not merely) ambiguity.
 
-To me, and indeed to a lot of sociolinguists,[^3] variation is intimately wrapped up in semantic change. Not just because, as I naively put it, change is _simply_ variation over time, but because variation is what makes change possible (and perhaps vice versa).
-When people talk about _semantic change_, be it _historic change_ or more short-term _semantic accommodation_, we are usually talking about a change in the meaning of **a word**---one form with multiple meanings over time.
+To me, and indeed to a lot of sociolinguists,[^3] variation is intimately wrapped up in semantic change. Not just because, as I naively put it, change is _simply variation over time_, but because variation is what makes change possible (and perhaps vice versa).
+And when people talk about _semantic change_, be it _historic change_ or more short-term _semantic accommodation_, we are usually talking about a change in the meaning of **a word**---one form with multiple meanings over time.
 
 [^3]: See Milroy & Milroy (1985), for example.
 
@@ -97,7 +97,7 @@ And I'm interested in the kind of variation (and indeed change) that Hasan descr
 I think there is good motivation here for finding ways to model _aspects of meaning_ computationally. 
 I'm not sure how to do that, but maybe we need to think more seriously (as Hasan suggests sociolinguists do) about starting with some less formal (more descriptive) theory of meaning like SFL.
 
-## Reference
+## References
 
 - Antilla, A. (2002). Variation and phonological theory. In J. K. Chambers, P. Trudgill and N. Schilling-Estes (eds).
 - Hasan, R. (2009). Collected works of Ruqaiya Hasan. Vol. 2, Semantic variation: Meaning in society and in sociolinguistics. Equinox.
