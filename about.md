@@ -1,17 +1,23 @@
 ---
 layout: page
-title: About
+title: about me
 ---
 
-<p class="message">
-  Hi, there!
-</p>
+Hi, my name is Bill. I'm a PhD student in computational linguistics with the Centre for Linguistic Theory and Studies in Probability [CLASP](https://gu-clasp.github.io/) in the Department of Philosophy, Linguistics and Theory of Science [FLoV](flov.gu.se/) at the Univeristy of Gothenburg.
 
-This is my this is my personal site which is also (mainly) my blog. I made this blog because I want to spend more time thinking and writing about computational linguistics (and other things) and it helps to have somewhere I can easily share that work with others.
+This is my research website, where I also [blog](/) infrequently about things I'm reading and working on.
 
-You can find the code for my current projects [here](https://github.com/winobes) but I'll try and write a blog post about anything that's worth looking at.
+My reseach focuses on how we construct meaning through interaction. I'm interested in how people align on the meaning of words over the course of a dialogue, and how this adaptive process can lead to long-term community-level semantic change. As a computational linguist, I try to find ways to investigate these questions using statistical and machine learning methods.
 
+In no particular order, here's a non-exhaustive list of topics and methods I find interesting.
 
-## Setup
+* semantic alignment
+* semantic varitation and change
+* computational sociolinguistics
+* word meaning negotiation
+* social network analysis
+* language modeling for dialogue
 
-This website uses the [lanyon](https://github.com/poole/lanyon) theme for[Jekyll](https://jekyllrb.com/) and is hosted by [Github Pages](https://pages.github.com/).
+### About this site
+
+This website uses the [lanyon](https://github.com/poole/lanyon) theme for [Jekyll](https://jekyllrb.com/) and is hosted by [Github Pages](https://pages.github.com/).

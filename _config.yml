@@ -9,7 +9,7 @@ exclude: ["workspace"]
 # Setup
 title:               'bill noble'
 tagline:             'meaning in flux'
-description:         'My research website and (infrequent) blog about dialogue and semantic change. On Twitter <a href="https://twitter.com/winobes" target="_blank">@winobes</a>.'
+description:         'A research website and blog about dialogue and semantic change. You can find me on Twitter <a href="https://twitter.com/winobes" target="_blank">@winobes</a>.'
 url:                 winobes.github.io
 baseurl:             ''
 paginate:            5
