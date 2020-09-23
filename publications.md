@@ -4,7 +4,7 @@ title: publications and presentations
 ---
 
 ## 2020
-- Noble, B., Breitholtz, E., Cooper, R. (2020) Personae under uncertainty: The case of topoi. Probability and Meaning (PaM 2020) \[to appear\] [[Pre-print]]()
+- Noble, B., Breitholtz, E., Cooper, R. (2020) Personae under uncertainty: The case of topoi. Probability and Meaning (PaM 2020) \[to appear\] [[Pre-print]](work/NobleBreitholtzCooper2020_personae-under-uncertainty.pdf)
 
 ## 2019
 - Noble, B. Towards a formal model of word meaning negotiation. _Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts_. (SemDial 2019 - LondonLogue) [[Abstract]](http://semdial.org/anthology/papers/Z/Z19/Z19-4038/) [[Poster]](work/Noble2019_formal-model-meaning-negotiation.pdf)
