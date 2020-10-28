@@ -4,14 +4,14 @@ title: publications and presentations
 ---
 
 ## 2020
-- Noble, B., Breitholtz, E., Cooper, R. (2020) Personae under uncertainty: The case of topoi. Probability and Meaning (PaM 2020) \[to appear\] [[Pre-print]](work/NobleBreitholtzCooper2020_personae-under-uncertainty.pdf)
+- Noble, B., Breitholtz, E., Cooper, R. (2020) Personae under uncertainty: The case of topoi. Probability and Meaning (PaM 2020) \[to appear\] [[Paper]](https://www.aclweb.org/anthology/2020.pam-1.2/) [[Talk]](https://drive.google.com/file/d/1SpJFkg5lymJQYWqwN1rCG_Jtke4SDM_v/view)
 
 ## 2019
-- Noble, B. Towards a formal model of word meaning negotiation. _Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts_. (SemDial 2019 - LondonLogue) [[Abstract]](http://semdial.org/anthology/papers/Z/Z19/Z19-4038/) [[Poster]](work/Noble2019_formal-model-meaning-negotiation.pdf)
-- Noble, B., Maraev, V. (2019) Neural dialogue act recognition with transformer pre-training. _Proceedings of the IWCS Workshop Vector Semantics for Discourse and Dialogue_. [[Abstract]](https://www.aclweb.org/anthology/volumes/W19-09/) [[Poster]](work/NobleMaraev2019_neural-dar-transformer.pdf)
+- Noble, B. Towards a formal model of word meaning negotiation. _Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts_. (SemDial 2019 - LondonLogue) [[Abstract]](http://semdial.org/anthology/papers/Z/Z19/Z19-4038/) [[Poster]](files/Noble2019_formal-model-meaning-negotiation.pdf)
+- Noble, B., Maraev, V. (2019) Neural dialogue act recognition with transformer pre-training. _Proceedings of the IWCS Workshop Vector Semantics for Discourse and Dialogue_. [[Abstract]](https://www.aclweb.org/anthology/volumes/W19-09/) [[Poster]](files/NobleMaraev2019_neural-dar-transformer.pdf)
 
 ## 2018
-- Noble, B. Does semantic adaptation predict semantic change? _Proceedings of the 22nd Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts_. (SemDial 2018 - AixDial) [[Abstract]](http://semdial.org/anthology/papers/Z/Z18/Z18-4034/) [[Poster]](work/Noble2018_semantic-adaptation-semantic-change.pdf)
+- Noble, B. Does semantic adaptation predict semantic change? _Proceedings of the 22nd Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts_. (SemDial 2018 - AixDial) [[Abstract]](http://semdial.org/anthology/papers/Z/Z18/Z18-4034/) [[Poster]](files/Noble2018_semantic-adaptation-semantic-change.pdf)
 
 ## Before that
 
