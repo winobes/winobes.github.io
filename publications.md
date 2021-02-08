@@ -1,3 +1,7 @@
+----
+-layout: page
+-title: publications and presentations
+----
 
 ## 2021
 - CLASP Seminar, 26 Feb 2020. _Distributional semantics for lexical semantic varition and change_ [[Abstract]](https://gu-clasp.github.io/news/Seminar%20by%20Bill%20Noble%20from%20University%20of%20Gothenburg/) [[Slides]](files/2021_clasp-seminar.pdf)
