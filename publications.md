@@ -4,6 +4,10 @@ title: publications and presentations
 ---
 
 ## 2021
+- Noble, B., Sayeed, A., Fernández, R., & Larsson, S. (2021). Semantic shift in social networks. Proceedings of \*SEM 2021: The Tenth Joint Conference on Lexical and Computational Semantics. [[Paper]](https://doi.org/10.18653/v1/2021.starsem-1.3) [[Poster]](files/Noble2021_semantic-shift_poster.pdf) [[Video]](https://www.youtube.com/watch?v=hJ3t-kGWKN8) [[Slides]](files/Noble2021_semantic-shift_slides.pdf)
+
+- CLASP Seminar, 26 Feb 2020. _Distributional semantics for lexical semantic varition and change_ [[Abstract]](https://gu-clasp.github.io/news/Seminar%20by%20Bill%20Noble%20from%20University%20of%20Gothenburg/) [[Slides]](files/2021_clasp-seminar.pdf)
+
 - CLASP Seminar, 26 Feb 2020. _Distributional semantics for lexical semantic varition and change_ [[Abstract]](https://gu-clasp.github.io/news/Seminar%20by%20Bill%20Noble%20from%20University%20of%20Gothenburg/) [[Slides]](files/2021_clasp-seminar.pdf)
 
 ## 2020
