@@ -4,7 +4,14 @@ title: publications and presentations
 ---
 
 ## 2021
-- Noble, B., Sayeed, A., Fernández, R., & Larsson, S. (2021). _Semantic shift in social networks_. Proceedings of \*SEM 2021: The Tenth Joint Conference on Lexical and Computational Semantics. [[Paper]](https://doi.org/10.18653/v1/2021.starsem-1.3) [[Poster]](files/Noble2021_semantic-shift_poster.pdf) [[Video]](https://www.youtube.com/watch?v=hJ3t-kGWKN8) [[Slides]](files/Noble2021_semantic-shift_slides.pdf)
+
+- Noble, B., Viloria, K., Larsson, S., & Sayeed, A. (2021, September). What do you mean by negotiation? Annotating social media discussions about word meaning. Proceedings of the 25th Workshop on the Semantics and Pragmatics of Dialogue. [[Paper]](http://semdial.org/anthology/papers/Z/Z21/Z21-3016/) [[slides]](files/Noble2021_word-meaning-negotiation_slides.pdf) [[talk]](https://mediaup.uni-potsdam.de/Play/39214)
+
+- Maraev, V., Noble, B., Mazzocconi, C., & Howes, C. (2021, September). Dialogue act classification is a laughing matter. Proceedings of the 25th Workshop on the Semantics and Pragmatics of Dialogue. [[Paper]](http://semdial.org/anthology/papers/Z/Z21/Z21-3015/) [[talk]](https://mediaup.uni-potsdam.de/Play/39204)
+
+- Noble, B., & Maraev, V. (2021). Large-scale text pre-training helps with dialogue act recognition, but not without fine-tuning. Proceedings of the 14th International Conference on Computational Semantics, 166--172. [[Paper]](https://iwcs2021.github.io/proceedings/iwcs/pdf/2021.iwcs-1.16.pdf) [[talk](https://www.youtube.com/watch?v=nwTSi1lxbmA) 
+
+- Noble, B., Sayeed, A., Fernández, R., & Larsson, S. (2021). _Semantic shift in social networks_. Proceedings of \*SEM 2021: The Tenth Joint Conference on Lexical and Computational Semantics. [[Paper]](https://doi.org/10.18653/v1/2021.starsem-1.3) [[Poster]](files/Noble2021_semantic-shift_poster.pdf) [[talk]](https://www.youtube.com/watch?v=hJ3t-kGWKN8) [[Slides]](files/Noble2021_semantic-shift_slides.pdf)
 
 - CLASP Seminar, 26 Feb 2021. _Distributional semantics for lexical semantic varition and change_ [[Abstract]](https://gu-clasp.github.io/news/Seminar%20by%20Bill%20Noble%20from%20University%20of%20Gothenburg/) [[Slides]](files/2021_clasp-seminar.pdf)
 
