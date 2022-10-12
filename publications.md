@@ -7,6 +7,8 @@ title: publications and presentations
 
 - Dobnik S., Cooper R., Ek A., Noble B., Larsson S., Ilinykh N., Maraev V., Somashekarappa  V. In Search of Meaning and Its Representations for Computational Linguistics. Proceedings of the 2022 CLASP Conference on (Dis)embodiment. [[Paper]](https://aclanthology.org/2022.clasp-1.4) 
 
+- Ayub Khan, F, & Noble, B. Investigating code-switching and disfluencies in bilingual dialogue. Proceedings of the 26th Workshop on the Semantics and Pragmatics of Dialogue (DubDial). [[poster]](files/AyubKhanNoble2022_code-switching-disfluencies_poster.pdf) 
+
 - Noble, B., Larsson, S., & Cooper, R. (2022) Classification Systems: Combining taxonomical and perceptual lexical meaning. Natural Logic Meets Machine Learning III (NALOMA 2022) [[Paper]](files/Noble2022_classification-systems_paper.pdf) [[Slides]](files/Noble_2022_classification-systems_slides.pdf)
 
 - Noble, B., Larsson, S., & Cooper, R. (2022) Coordinating taxonomical and observational meaning: The case of genus-differentia definitions. Proceedings of the 26th Workshop on the Semantics and Pragmatics of Dialogue. [[Paper]](https://semdial2022.github.io/includes/DubDial_Proceedings.pdf) [[Slides]](files/Noble2022_genus-differentia-definitions_slides.pdf)
