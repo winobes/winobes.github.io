@@ -4,7 +4,7 @@
 permalink: none
 #relative_permalinks: true
 future: true
-exclude: ["workspace"]
+exclude: ["workspace", "flake.*"]
 
 # Setup
 title:               'bill noble'
@@ -25,4 +25,4 @@ version:             1.0.0
 
 plugins: [jekyll-paginate]
 paginate: 5
-paginate_path: "page:num"
+paginate_path: "/blog/page:num"
