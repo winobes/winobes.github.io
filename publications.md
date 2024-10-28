@@ -2,24 +2,33 @@
 layout: page
 title: publications and presentations
 ---
+## 2024
+
+- Bill Noble, Francesco Periti, and Nina Tahmasebi. Improving word usage graphs with edge induction. In Nina Tahmasebi, Syrielle Montariol, Andrey Kutuzov, David Alfter, Francesco Periti, Pierluigi Cassotti, and Netta Huebscher, editors, Proceedings of the 5th Workshop on Computational Approaches to Historical Language Change, pages 92–107, Bangkok, Thailand, August 2024. Association for Computational Linguistics.
+
+## 2023
+
+- Bill Noble. Semantic Change in Interaction: Studies on the Dynamics of Lexical Meaning. Doctoral Thesis, University of Gothenburg, Gothenburg, Sweden, March 2023.
+
+- Bill Noble and Nikolai Ilinykh. Describe me an auklet: Generating grounded perceptual category descriptions. In Houda Bouamor, Juan Pino, and Kalika Bali, editors, _Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing_, pages 9330–9347, Singapore, December 2023. Association for Computational Linguistics.
 
 ## 2022
 
-- Bill Noble, Vladislav Maraev, and Ellen Breitholtz. Probabilistic pragmatics: A dialogical perspective. In Jean-Philippe Bernardy, Rasmus Blanck, Stergios Chatzikyriakidis, Shalom Lappin, and Aleksandre Maskharashvili, editors, Probabilistic Approaches to Linguistic Theory, pages 227–259. Center for the Study of Language and Information, December 2022. [[Chapter]](files/noble_probabilistic_2022.pdf)
+- Bill Noble, Vladislav Maraev, and Ellen Breitholtz. Probabilistic pragmatics: A dialogical perspective. In Jean-Philippe Bernardy, Rasmus Blanck, Stergios Chatzikyriakidis, Shalom Lappin, and Aleksandre Maskharashvili, editors, _Probabilistic Approaches to Linguistic Theory_, pages 227–259. Center for the Study of Language and Information, December 2022. [[Chapter]](files/noble_probabilistic_2022.pdf)
 
-- Dobnik S., Cooper R., Ek A., Noble B., Larsson S., Ilinykh N., Maraev V., Somashekarappa  V. In Search of Meaning and Its Representations for Computational Linguistics. Proceedings of the 2022 CLASP Conference on (Dis)embodiment. [[Paper]](https://aclanthology.org/2022.clasp-1.4)
+- Dobnik S., Cooper R., Ek A., Noble B., Larsson S., Ilinykh N., Maraev V., Somashekarappa  V. In Search of Meaning and Its Representations for Computational Linguistics. _Proceedings of the 2022 CLASP Conference on (Dis)embodiment_. [[Paper]](https://aclanthology.org/2022.clasp-1.4)
 
-- Ayub Khan, F, & Noble, B. Investigating code-switching and disfluencies in bilingual dialogue. Proceedings of the 26th Workshop on the Semantics and Pragmatics of Dialogue (DubDial). [[poster]](files/AyubKhanNoble2022_code-switching-disfluencies_poster.pdf)
+- Ayub Khan, F, & Noble, B. Investigating code-switching and disfluencies in bilingual dialogue. _Proceedings of the 26th Workshop on the Semantics and Pragmatics of Dialogue (DubDial)_. [[poster]](files/AyubKhanNoble2022_code-switching-disfluencies_poster.pdf)
 
-- Noble, B., Larsson, S., & Cooper, R. (2022) Classification Systems: Combining taxonomical and perceptual lexical meaning. Natural Logic Meets Machine Learning III (NALOMA 2022) [[Paper]](files/Noble2022_classification-systems_paper.pdf) [[Slides]](files/Noble_2022_classification-systems_slides.pdf)
+- Noble, B., Larsson, S., & Cooper, R. (2022) Classification Systems: Combining taxonomical and perceptual lexical meaning. _Proceedings of the 3rd Natural Logic Meets Machine Learning Workshop (NALOMA III)_. [[Paper]](files/Noble2022_classification-systems_paper.pdf) [[Slides]](files/Noble_2022_classification-systems_slides.pdf)
 
-- Noble, B., Larsson, S., & Cooper, R. (2022) Coordinating taxonomical and observational meaning: The case of genus-differentia definitions. Proceedings of the 26th Workshop on the Semantics and Pragmatics of Dialogue. [[Paper]](https://semdial2022.github.io/includes/DubDial_Proceedings.pdf) [[Slides]](files/Noble2022_genus-differentia-definitions_slides.pdf)
+- Noble, B., Larsson, S., & Cooper, R. (2022) Coordinating taxonomical and observational meaning: The case of genus-differentia definitions. _Proceedings of the 26th Workshop on the Semantics and Pragmatics of Dialogue._ [[Paper]](https://semdial2022.github.io/includes/DubDial_Proceedings.pdf) [[Slides]](files/Noble2022_genus-differentia-definitions_slides.pdf)
 
 ## 2021
 
-- Noble, B., Viloria, K., Larsson, S., & Sayeed, A. (2021). What do you mean by negotiation? Annotating social media discussions about word meaning. Proceedings of the 25th Workshop on the Semantics and Pragmatics of Dialogue. [[Paper]](http://semdial.org/anthology/papers/Z/Z21/Z21-3016/) [[Slides]](files/Noble2021_word-meaning-negotiation_slides.pdf) [[talk]](https://mediaup.uni-potsdam.de/Play/39214)
+- Noble, B., Viloria, K., Larsson, S., & Sayeed, A. (2021). What do you mean by negotiation? Annotating social media discussions about word meaning. _Proceedings of the 25th Workshop on the Semantics and Pragmatics of Dialogue._ [[Paper]](http://semdial.org/anthology/papers/Z/Z21/Z21-3016/) [[Slides]](files/Noble2021_word-meaning-negotiation_slides.pdf) [[talk]](https://mediaup.uni-potsdam.de/Play/39214)
 
-- Maraev, V., Noble, B., Mazzocconi, C., & Howes, C. (2021). Dialogue act classification is a laughing matter. Proceedings of the 25th Workshop on the Semantics and Pragmatics of Dialogue. [[Paper]](http://semdial.org/anthology/papers/Z/Z21/Z21-3015/) [[talk]](https://mediaup.uni-potsdam.de/Play/39204)
+- Maraev, V., Noble, B., Mazzocconi, C., & Howes, C. (2021). Dialogue act classification is a laughing matter. _Proceedings of the 25th Workshop on the Semantics and Pragmatics of Dialogue._ [[Paper]](http://semdial.org/anthology/papers/Z/Z21/Z21-3015/) [[talk]](https://mediaup.uni-potsdam.de/Play/39204)
 
 - Noble, B., & Maraev, V. (2021). Large-scale text pre-training helps with dialogue act recognition, but not without fine-tuning. Proceedings of the 14th International Conference on Computational Semantics, 166--172. [[Paper]](https://iwcs2021.github.io/proceedings/iwcs/pdf/2021.iwcs-1.16.pdf) [[talk](https://www.youtube.com/watch?v=nwTSi1lxbmA)
 

@@ -2,8 +2,10 @@ Hi, I'm a researcher in the field of computational linguistics.
 This is my academic website,
 where I also [blog](/blog) infrequently about things I'm reading and working on.
 
-I'm currently working in the [Change is Key!](https://www.changeiskey.org/) project in Gothenburg, Sweden with Nina Tahmasebi.
-Before that I was a PhD student in computational linguistics at the Centre for Linguistic Theory and Studies in Probability [CLASP](https://gu-clasp.github.io/).
+I'm currently working as a post-doc at [CLASP](https://gu-clasp.github.io/), the Centre for Linguistic Theory and Studies in Probability,
+in Gothenburg, Sweden.
+Before that I was a researcher in the [Change is Key!](https://www.changeiskey.org/) project, also in Gothenburg and
+before that I was a PhD student at CLASP.
 
 My research focuses on how we construct meaning through interaction.
 As a computational linguist, I try to find ways to investigate these questions using statistical and machine learning methods.
